@@ -1,9 +1,0 @@
-streamlit
-pickle-mixin
-fuzzywuzzy
-distance
-regex
-beautifulsoup4
-bs4==4.12.3
-numpy
-nltk
