@@ -1,0 +1,9 @@
+streamlit
+pickle-mixin
+fuzzywuzzy
+distance
+regex
+beautifulsoup4
+bs4
+numpy
+nltk
